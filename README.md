@@ -45,17 +45,12 @@ We faced challenges with CSS tags and class also, because when we merged CSS fil
 </p>
 
 
-
-<div style="display: flex ;width: 100%; height: 500px;">
-        <img style="width: 50%;" src="img_5.jpeg" alt="">
-        <img style="width: 50%;" src="img_6.jpeg" alt="">
-    </div>
+## Create An Account
+<p align="center">
+        <img style="width: auto;" src="image/img_6.jpeg" alt="">
+ </p>   
     
-    
-    
-    
-
-
+   
 
 ## Card and Order Section
 <p align="center">
@@ -68,4 +63,7 @@ We faced challenges with CSS tags and class also, because when we merged CSS fil
 </p>
 
 
-## Thank You 🙏🏻
+
+  <h1 style="text-align: center;">Thank you </h1>
+
+
