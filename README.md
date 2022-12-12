@@ -46,6 +46,17 @@ We faced challenges with CSS tags and class also, because when we merged CSS fil
 
 
 
+<div style="display: flex ;width: 100%; height: 500px;">
+        <img style="width: 50%;" src="img_5.jpeg" alt="">
+        <img style="width: 50%;" src="img_6.jpeg" alt="">
+    </div>
+    
+    
+    
+    
+
+
+
 ## Card and Order Section
 <p align="center">
   <img src="image/img_3.jpeg" width="auto" alt="accessibility text">
